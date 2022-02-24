@@ -1,4 +1,3 @@
-# Conflict Resolution Example
+# Conflict Resolution 
 
-This respository demonstrates an example of a merge conflict for Question 4 of
-the [GitHub Tutorial](https://github.com/aezarebski/github-tutorial)
+In this code, I forked the repository, resolved the conflict and merged the spell-check branch into the main code.
